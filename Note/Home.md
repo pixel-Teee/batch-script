@@ -195,6 +195,28 @@ echo %JAVA_HOME%
 
 
 
+# Comments
+
+为创建的脚本添加添加注释或者文档是一种很好的方法。
+
+
+
+## Comments Using the Rem Statement
+
+
+
+这里有两种方式去创建注释在Batch Script中，第一种，是通过Rem命令。
+
+
+
+## Comments Using the :: Statement
+
+任何在::语句后的，将会被对待为注释，并且不会被执行。
+
+
+
+
+
 
 
 
